@@ -5,7 +5,7 @@ import weather from '../assets/weather.png'
 
 const Work = () => {
     return (
-        <div name='work' className='pt-20 md:pt-0 md:h-screen w-full h-full mt-32 md:mt-0 md:h-screen text-gray'>
+        <div name='work' className='pt-20 w-full h-full mt-32 md:mt-0 md:h-screen text-gray'>
             {/* container */}
             <div className='max-w-6xl w-full h-full mx-auto p-4 flex flex-col justify-center'>
                 <div className='pb-8'>

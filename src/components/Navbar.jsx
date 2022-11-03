@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div className='text-white'>
             {/* menu */}
-            <div className='fixed top-0 w-full h-[50px] py-2 bg-background border-b-2 border-primary'>
+            <div className='fixed z-30 top-0 w-full h-[50px] py-2 bg-background border-b-2 border-primary'>
                 <div className="flex justify-between items-center w-11/12 md:max-w-7xl mx-auto">
                     <h1 className='text-3xl'>Emmanuel Inua</h1>
                     <ul className='hidden lg:flex space-x-6 text-xl'>
