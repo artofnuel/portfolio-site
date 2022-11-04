@@ -12,7 +12,7 @@ const Hero = () => {
                     <p className='text-xl'>Hello there! My name is</p>
                     <h1 className='text-5xl md:text-7xl text-primary ml-[-4px]'>Emmanuel Inua</h1>
                     <h2 className='text-xl'>I'm a Frontend Developer.<br /> I create responsive websites with amazing technologies.</h2>
-                    <Link className='flex justify-center items-center mt-4 w-52 border-2 border-primary text-primary hover:bg-primary hover:text-white' to="work" smooth={true} duration={500}>
+                    <Link className='flex justify-center items-center mt-4 w-52 h-[45px] border-2 border-primary text-primary hover:bg-primary hover:text-white duration-500' to="work" smooth={true} duration={500}>
                         View my work
                         <BsArrowRight className='ml-3' size={30} />
                     </Link>

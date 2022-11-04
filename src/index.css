@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    background-color: #282c33;
+    background-color: #0f1114;
     @apply font-[Nunito];
   }
 }

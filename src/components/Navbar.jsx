@@ -52,7 +52,7 @@ const Navbar = () => {
                 </div>
 
                 {/* mobile menu */}
-                <ul className={!nav ? 'hidden' : 'lg:hidden absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center mx-auto space-y-10 text-3xl bg-[rgb(28,28,28)]'}>
+                <ul className={!nav ? 'hidden' : 'lg:hidden absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center mx-auto space-y-10 text-3xl bg-background'}>
                     <li className='cursor-pointer hover:text-primary' href="/">
                         <Link onClick={handleNav} to="home" smooth={true} duration={500}>
                             Home
