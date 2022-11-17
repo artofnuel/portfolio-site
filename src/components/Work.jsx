@@ -80,10 +80,10 @@ const Work = () => {
                             </p>
                             {/* links */}
                             <div className='flex justify-between items-center space-x-6 font-bold py-4'>
-                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://nextjs-weatherapp-beta.vercel.app/">
+                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://the-flix-react.web.app/">
                                     <button>Live</button>
                                 </a>
-                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://github.com/artofnuel/nextjs-weatherapp">
+                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://github.com/artofnuel/the-flix-clone">
                                     <button>Code</button>
                                 </a>
                             </div>
@@ -114,10 +114,10 @@ const Work = () => {
                             </p>
                             {/* links */}
                             <div className='flex justify-between items-center space-x-6 font-bold py-4'>
-                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://the-flix-react.web.app/">
+                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://nextjs-weatherapp-beta.vercel.app/">
                                     <button>Live</button>
                                 </a>
-                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://github.com/artofnuel/the-flix-clone">
+                                <a className='p-2 px-6 lg:px-10 border border-primary hover:bg-primary text-white duration-300' target="_blank" href="https://github.com/artofnuel/nextjs-weatherapp">
                                     <button>Code</button>
                                 </a>
                             </div>
