@@ -17,8 +17,34 @@ const Hero = () => {
                         <BsArrowRight className='ml-3' size={30} />
                     </Link>
                 </div>
+<<<<<<< Updated upstream
                 <div className='w-1/2 flex justify-center items-center'>
                     <img className='w-[400px] rounded-3xl' src={nuel} alt="" />
+=======
+                <div className='w-full flex justify-center items-center p-4 '>
+                    <img className='w-[400px] rounded border-[10px] border-primary' src={nuel} alt="" />
+                </div>
+            </div>
+            <div className='lg:hidden p-4 absolute bottom-12 flex justify-start items-center space-x-5 w-full pt-5'>
+                <span className='w-12 h-1 bg-primary mr-2 hidden lg:inline-block'></span>
+                <div className='flex justify-center items-center space-x-5 w-full'>
+                    <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.twitter.com/artofnuel">
+                        Twitter
+                        <FiTwitter size={30} />
+                    </a>
+                    <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.linkedin.com/in/emmanuelinua">
+                        Linkedin
+                        <FiLinkedin size={30} />
+                    </a>
+                    <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.github.com/artofnuel">
+                        Github
+                        <FiGithub size={30} />
+                    </a>
+                    <a className='hover:text-primary md:text-gray' target="_blank" href="mailto:artofnuel@gmail.com">
+                        Email
+                        <MdOutlineMarkEmailUnread size={30} />
+                    </a>
+>>>>>>> Stashed changes
                 </div>
             </div>
         </div>
