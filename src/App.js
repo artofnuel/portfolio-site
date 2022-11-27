@@ -11,10 +11,10 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <About />
-      <Skills />
+      {/* <About /> */}
+      {/* <Skills />
       <Work />
-      <Contact />
+      <Contact /> */}
     </div>
   );
 }
