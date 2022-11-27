@@ -27,19 +27,15 @@ const Hero = () => {
                 <span className='w-12 h-1 bg-primary mr-2 hidden lg:inline-block'></span>
                 <div className='flex justify-center items-center space-x-5 w-full'>
                     <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.twitter.com/artofnuel">
-                        Twitter
                         <FiTwitter size={30} />
                     </a>
                     <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.linkedin.com/in/emmanuelinua">
-                        Linkedin
                         <FiLinkedin size={30} />
                     </a>
                     <a className='hover:text-primary md:text-gray' target="_blank" href="https://www.github.com/artofnuel">
-                        Github
                         <FiGithub size={30} />
                     </a>
                     <a className='hover:text-primary md:text-gray' target="_blank" href="mailto:artofnuel@gmail.com">
-                        Email
                         <MdOutlineMarkEmailUnread size={30} />
                     </a>
                 </div>
