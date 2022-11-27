@@ -7,7 +7,7 @@ import { Link } from 'react-scroll'
 
 const Hero = () => {
     return (
-        <div name='home' className='relative max-w-6xl h-screen md:h-full flex flex-col w-full justify-center items-center mx-auto'>
+        <div name='home' className='relative max-w-6xl h-screen flex flex-col w-full justify-center items-center mx-auto'>
             <div className='grid md:grid-cols-2 justify-center items-center w-full mx-auto'>
                 {/* Container */}
                 <div className="w-full p-4 lg:p-0 text-primary mx-auto flex flex-col justify-center items-start h-full">
