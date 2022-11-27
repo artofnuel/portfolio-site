@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div name='about' className='w-full h-screen text-gray'>
+        <div name='about' className='py-20 flex flex-col justify-center items-center w-full text-primary'>
             {/* container */}
             <div className="flex flex-col justify-center items-center w-full h-full">
                 {/* grid */}
