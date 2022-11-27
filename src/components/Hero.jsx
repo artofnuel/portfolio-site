@@ -8,7 +8,7 @@ import { Link } from 'react-scroll'
 const Hero = () => {
     return (
         <div name='home' className='relative max-w-6xl h-screen flex flex-col w-full justify-center items-center mx-auto'>
-            <div className='grid md:grid-cols-2 justify-center items-center w-full mx-auto'>
+            <div className='grid sm:grid-cols-2 justify-center items-center w-full mx-auto'>
                 {/* Container */}
                 <div className="w-full p-4 lg:p-0 text-primary mx-auto flex flex-col justify-center items-start h-full">
                     <p className='text-xl flex items-center'><span className='w-12 h-1 bg-primary inline-block mr-2'></span>Hello there! My name is</p>

@@ -12,8 +12,8 @@ const Navbar = () => {
     return (
         <div className=''>
             {/* menu */}
-            <div className='fixed z-30 top-0 w-full h-[50px] py-2'>
-                <div className="flex justify-between items-center w-11/12 md:max-w-7xl mx-auto">
+            <div className='fixed z-30 top-0 w-full h-[50px]'>
+                <div className="backdrop-blur-[2px] bg-secondary/75 flex justify-between items-center w-11/12 md:max-w-7xl mx-auto py-2">
                     <h1 className='text-3xl'>Emmanuel Inua</h1>
                     <ul className='hidden lg:flex space-x-6 text-xl'>
                         <li className='cursor-pointer hover:text-primary' href="/">
