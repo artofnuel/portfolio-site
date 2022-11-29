@@ -1,6 +1,7 @@
 import dataImg from '../assets/datafinance.png'
 import theFlix from '../assets/theflix.png'
 import weather from '../assets/weather.png'
+import tesla from '../assets/tesla-clone.png'
 
 export const data = [
     // data finance website
@@ -32,5 +33,14 @@ export const data = [
         Just search a city or country.`,
         live: 'https://nextjs-weatherapp-beta.vercel.app/',
         code: 'https://github.com/artofnuel/nextjs-weatherapp'
-    }
+    },
+    // tesla clone
+    {
+        image: tesla,
+        tools: `Reactjs Styled-Components React-Fade`,
+        title: 'Tesla Clone',
+        description: `A simple clone of the tesla landing page.`,
+        live: 'https://tesla-clone-seven-omega.vercel.app/',
+        code: 'https://github.com/artofnuel/tesla-clone'
+    },
 ]
