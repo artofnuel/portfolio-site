@@ -7,7 +7,7 @@ export const data = [
     // data finance website
     {
         image: dataImg,
-        tools: `Reactjs Tailwindcss React-typed`,
+        tools: ['Reactjs', 'Tailwindcss', 'React-typed'],
         title: 'Data Finance',
         description: `A designed landing page for showcasing
         data analytics`,
@@ -17,7 +17,7 @@ export const data = [
     // netflix website
     {
         image: theFlix,
-        tools: `Reactjs Tailwindcss API Firebase Firestore`,
+        tools: ['Reactjs', 'Tailwindcss', 'API', 'Firebase', 'Firestore'],
         title: 'TheFlix',
         description: `A Netflix clone showcasing the use of API requests,
         Google authentication using Firebase and Firestore database.`,
@@ -27,7 +27,7 @@ export const data = [
     // weather app website
     {
         image: weather,
-        tools: `Nextjs Tailwindcss OpenWeather-API`,
+        tools: ['Nextjs', 'Tailwindcss', 'OpenWeather API'],
         title: 'Weather App',
         description: `A weather application created using Nextjs.
         Just search a city or country.`,
@@ -37,7 +37,7 @@ export const data = [
     // tesla clone
     {
         image: tesla,
-        tools: `Reactjs Styled-Components React-Fade`,
+        tools: ['Reactjs', 'Styled', 'Components', 'React Fade'],
         title: 'Tesla Clone',
         description: `A simple clone of the tesla landing page.`,
         live: 'https://tesla-clone-seven-omega.vercel.app/',

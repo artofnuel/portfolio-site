@@ -23,8 +23,8 @@ const About = () => {
                     {/* Right Grid */}
                     <div>
                         <p>
-                            I am a passionate front-end developer based in Akwa Ibom, Nigeria.
-                            I can develop responsive, user-friendly web experiences.I always
+                            I am a passionate front-end developer and I work remotely!
+                            I can develop responsive, user-friendly web experiences. I always
                             strive to learn about the newest technologies and frameworks.
                         </p>
                     </div>
